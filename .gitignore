@@ -1,3 +1,7 @@
+# User
+android/key.properties
+lib/utilities/apikey.dart
+
 # Miscellaneous
 *.class
 *.log
